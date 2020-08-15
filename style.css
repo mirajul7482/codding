@@ -1,0 +1,71 @@
+.d-flex{
+   display: flex !important; 
+   flex-direction: row;
+   justify-content: space-between;
+
+}
+.img-middle-text{
+  margin-top: -20rem;
+    position: relative;
+    
+    text-align: center;
+
+}
+.img-middle-text input{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+}
+.space{
+    width: 100%;
+    height: 20rem;
+}
+.card-img-top{
+    align-items: center;
+    height: 10rem;
+}
+.card{
+    align-items: center;
+    float: left;
+    margin-left: 3rem;
+    border: none !important;
+}
+.container{
+    align-items: center;
+    
+}
+.space1{
+    width: 100%;
+    height: 6rem;
+}
+h1{
+
+margin: auto;
+}
+.rd{
+    border-radius: 50% !important;
+}
+.space2{
+    width: 100%;
+    height: 3rem;
+}
+.text{
+    margin-top: -12rem;
+    position: relative;
+    
+    text-align: center;
+
+}
+.fta a{
+    padding: 10px;
+}
+.fta{
+    margin-left: 3rem !important;
+}
+.icon i{
+    padding: 10px;
+    
+}
+.icon{
+    margin-right: 3rem;
+}
